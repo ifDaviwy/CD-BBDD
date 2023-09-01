@@ -392,3 +392,5 @@ WHERE
     GROUP BY
         ME.MEMBER_NAME
     );
+	
+-- FIN DE LOS EJERCICIOS.
